@@ -1,5 +1,5 @@
 # calcCSP
-For my AP CSP final, I decided to do a calculator.  Now, I'm gonna try to do it again, probably not any better, but still alright I guess.
+For my AP CSP final, I decided to do a calculator.  Here it is.
 
 To see this code in action, click onto my Code.org link down below.  This file really makes no sense unless you see it along with the UI on the Code.org App Lab.
 
