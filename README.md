@@ -1,2 +1,2 @@
 # CSP_Calc
-A recreation of my AP Computer Science Principles app
+For my AP CSP final, I decided to do a calculator.  Now, I'm gonna try to do it again.  Hopefully a bit better
