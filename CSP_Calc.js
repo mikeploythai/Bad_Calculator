@@ -108,11 +108,11 @@ onEvent("divide", "click", function() {
 onEvent("equal", "click", function() {
   if(cmd == "plus") {
     ans = firstNum + secondNum;
-  } if (cmd == "minus") {
+  } if(cmd == "minus") {
     ans = firstNum - secondNum;
-  } if (cmd == "times") {
+  } if(cmd == "times") {
     ans = firstNum * secondNum;
-  } if (cmd == "divide") {
+  } if(cmd == "divide") {
     ans = firstNum / secondNum;
   }
   setText("calcArea", ans);
