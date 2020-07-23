@@ -1,11 +1,9 @@
 # Bad Calculator
 For my AP Computer Science Principles final project, I decided to create a calculator*.  Here it is
 
-To see this code in action, click the link down below.  This file really makes no sense unless you see it along with the UI
+To see this code in action, click the link in the About section.  This file really makes no sense unless you see it along with the UI
 
 I'll probably revisit this JS calculator one day when I can figure out how to make my own UI.
-
-Link: https://studio.code.org/projects/applab/Q2bXUYOisb0vPZbjmQ-bMIk_iOEzl45Oqq74B-3f1xA
 
 *It's a bad one
 
